@@ -4,7 +4,6 @@
 import React from "react";
 import Head from "next/head";
 import Link from "next/link";
-import SingleHotel from "../single-hotel";
 
 export default function Blogs() {
   const blogs = [

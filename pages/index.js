@@ -19,6 +19,7 @@ import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
 
 export default function Home() {
+
   const testimonials = [
     {
       commaImg: "/comma.png",
@@ -39,10 +40,12 @@ export default function Home() {
       guestName: "Sanjeev, India",
     },
   ];
+
   const testiCarousel = {
     items: 1,
     dots: false,
   };
+
   return (
     <>
       <Head>
@@ -51,7 +54,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <section className="banner home_banner">
-        <div className="banner_content text-center animate__animated animate__fadeInUp  animate__slower">
+        <div className="banner_content text-center ">
           <h1 className="text-uppercase">
             exploring<span>the himachal</span>
           </h1>
