@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <g id="water" transform="translate(-0.026 -0.026)">
+    <g id="invisible_box" data-name="invisible box">
+      <rect id="Rectangle_55" data-name="Rectangle 55" width="42" height="42" transform="translate(0.026 0.026)" fill="none"/>
+    </g>
+    <g id="Medical" transform="translate(5.255 1.752)">
+      <g id="Group_189" data-name="Group 189">
+        <path id="Path_52" data-name="Path 52" d="M35.276,11.175H25.639v-3.5h4.38a1.752,1.752,0,1,0,0-3.5H17.754a1.752,1.752,0,1,0,0,3.5h4.38v3.5H15.126A2.541,2.541,0,0,0,12.5,13.8v7.009a2.541,2.541,0,0,0,2.628,2.628H31.772v6.133A2.541,2.541,0,0,0,34.4,32.2h7.009a2.541,2.541,0,0,0,2.628-2.628V19.936A8.761,8.761,0,0,0,35.276,11.175ZM40.533,28.7H35.276V22.564a2.541,2.541,0,0,0-2.628-2.628H16V14.68H35.276a5.256,5.256,0,0,1,5.257,5.256Z" transform="translate(-12.496 -4.167)" fill="#e28736"/>
+        <path id="Path_53" data-name="Path 53" d="M68.088,75,65.46,77.979a3.417,3.417,0,0,0,.35,4.906,3.5,3.5,0,0,0,4.556,0,3.417,3.417,0,0,0,.35-4.906Z" transform="translate(-42.68 -45.213)" fill="#e28736"/>
+      </g>
+    </g>
+  </g>
+</svg>
